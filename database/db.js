@@ -3,7 +3,7 @@ var __path = process.cwd(),
      { color } = require(__path + '/lib/color.js')
 
 // Connection URL
-var url = 'mongodb+srv://zexxadev:<password>@cluster0.prfpwmz.mongodb.net/?retryWrites=true&w=majority';
+var url = 'mongodb+srv://ajiart01:Ajifu917@cluster0.zebgfie.mongodb.net/?retryWrites=true&w=majority';
 try {
 if(url == 'https://bgsbot.my.id') throw console.log(color('Cek konfigurasi database, var url belum diisi','red'));
 } catch (e) {
